@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ali
+# 👋 Hey there! I'm Azamat
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Hospitality+%2B+Tech+Innovator;AI+Startup+Founder;Building+Avicenna+AI;Masters+Bound+for+Australia" alt="Typing SVG" />
