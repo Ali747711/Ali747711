@@ -21,7 +21,6 @@
 ```ts
 const azamat = {
   role:       "Full Stack Engineer & AI Developer",
-  location:   "Busan, Korea 🇰🇷  ·  Remote-first",
   experience: "3+ years  ·  20+ projects shipped  ·  10+ AI integrations",
   stack:      ["React", "NestJS", "TypeScript", "Docker", "OpenAI", "PostgreSQL"],
   languages:  ["Uzbek (Native)", "Russian (Fluent)", "English (Professional)", "Korean (Fluent)"],
