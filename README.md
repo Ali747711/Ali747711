@@ -1,4 +1,4 @@
-<h1 align="center">Azamat (Ali) Nabiev</h1>
+<h1 align="center">Nabiev Azamat(Ali)</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI Engineer</b> &nbsp;·&nbsp; Seoul, South Korea
