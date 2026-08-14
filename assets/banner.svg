@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Azamat (Ali) Nabiev - Full-Stack Developer / AI Engineer / Seoul, South Korea">
+<title>Azamat (Ali) Nabiev</title>
+<defs>
+<radialGradient id="pine" cx="16%" cy="62%" r="58%">
+<stop offset="0" stop-color="#15803D" stop-opacity=".24"/><stop offset="1" stop-color="#15803D" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="lime" cx="31%" cy="49%" r="30%">
+<stop offset="0" stop-color="#A3E635" stop-opacity=".13"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+.k{fill:#22C55E}.s{fill:#A3E635}.p{fill:#D9F99D}.c{fill:#7A8B7F}.b{fill:#E6F0E8}.d{fill:#E6F0E8;opacity:.5}
+.m{fill:#7A8B7F;opacity:.28}.ml{fill:#A3E635;opacity:.5}.mg{fill:#22C55E;opacity:.38}
+.car{animation:bl 1.15s steps(1) infinite}
+@keyframes bl{0%,52%{opacity:1}53%,100%{opacity:.1}}
+.glow{animation:pu 7s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.6}}
+.vp{animation:sl 11s ease-in-out infinite}
+@keyframes sl{0%,100%{transform:translateY(0)}50%{transform:translateY(22px)}}
+@media (prefers-reduced-motion:reduce){.car,.glow,.vp{animation:none}}
+</style>
+
+<rect width="1200" height="300" fill="#0A0F0B"/>
+<rect width="1200" height="300" fill="url(#pine)"/>
+<rect class="glow" width="1200" height="300" fill="url(#lime)"/>
+
+<rect width="1200" height="42" fill="#121A14"/>
+<rect x="0" y="42" width="1200" height="1" fill="#7A8B7F" opacity=".22"/>
+<rect x="0" y="0" width="196" height="42" fill="#0A0F0B"/>
+<rect x="0" y="0" width="196" height="2" fill="#A3E635"/>
+<text class="b" x="24" y="26" font-size="13">azamat.ts</text>
+<circle cx="172" cy="21" r="4" fill="#A3E635"/>
+<text class="c" x="222" y="26" font-size="13" opacity=".7">stack.json</text>
+<text class="c" x="342" y="26" font-size="13" opacity=".7">README.md</text>
+<text class="c" x="1176" y="26" font-size="12" text-anchor="end" textLength="187" lengthAdjust="spacingAndGlyphs" opacity=".8">src / identity / azamat.ts</text>
+
+<rect x="0" y="43" width="62" height="219" fill="#121A14"/>
+<rect x="62" y="43" width="1" height="219" fill="#7A8B7F" opacity=".22"/>
+
+<rect x="63" y="112" width="1045" height="62" fill="#A3E635" opacity=".05"/>
+<rect x="59" y="112" width="3" height="62" fill="#A3E635"/>
+<rect x="800" y="48" width="1" height="210" fill="#7A8B7F" opacity=".16"/>
+
+<g class="c" font-size="12" text-anchor="end" opacity=".65">
+<text x="44" y="72">01</text><text x="44" y="98">02</text><text x="44" y="196">04</text><text x="44" y="236">05</text>
+</g>
+<text class="s" x="44" y="150" font-size="12" text-anchor="end">03</text>
+
+<text class="c" x="78" y="72" font-size="13" textLength="710" lengthAdjust="spacingAndGlyphs">// full-stack + ai &#183; typescript &#183; nestjs &#183; next.js &#183; spring &#183; vector search &#183; streaming llm</text>
+<text x="78" y="98" font-size="14" textLength="160" lengthAdjust="spacingAndGlyphs"><tspan class="k">export const </tspan><tspan class="b">me</tspan><tspan class="d"> = {</tspan></text>
+<text class="p" x="94" y="150" font-size="17" textLength="51" lengthAdjust="spacingAndGlyphs">name:</text>
+<text x="166" y="152" font-size="46" font-weight="700" textLength="580" lengthAdjust="spacingAndGlyphs"><tspan class="c">"</tspan><tspan class="s">Azamat (Ali) Nabiev</tspan><tspan class="c">"</tspan></text>
+<rect class="car" x="762" y="114" width="6" height="48" fill="#A3E635"/>
+<text x="94" y="196" font-size="17" xml:space="preserve" textLength="694" lengthAdjust="spacingAndGlyphs"><tspan class="p">focus: </tspan><tspan class="c">"</tspan><tspan class="s">Full-Stack Developer  /  AI Engineer  /  Seoul, South Korea</tspan><tspan class="c">"</tspan></text>
+<text x="78" y="236" font-size="14" textLength="176" lengthAdjust="spacingAndGlyphs"><tspan class="d">}</tspan><tspan class="k"> satisfies </tspan><tspan class="p">Engineer</tspan><tspan class="d">;</tspan></text>
+
+<g class="c" font-size="13" text-anchor="end" opacity=".45" letter-spacing="2">
+<text x="1088" y="212">37.5665&#176; N</text><text x="1088" y="234">126.9780&#176; E</text>
+</g>
+
+<g transform="translate(1112,52)">
+<rect class="vp" x="-4" y="52" width="76" height="66" fill="#E6F0E8" opacity=".05"/>
+<rect class="m" y="0" width="34" height="3"/><rect class="mg" y="9" width="22" height="3"/>
+<rect class="ml" x="5" y="18" width="40" height="3"/><rect class="m" x="5" y="27" width="28" height="3"/>
+<rect class="m" x="5" y="36" width="46" height="3"/><rect class="mg" x="10" y="45" width="30" height="3"/>
+<rect class="ml" x="10" y="54" width="52" height="3"/><rect class="ml" x="10" y="63" width="44" height="3"/>
+<rect class="m" x="5" y="72" width="24" height="3"/><rect class="m" y="81" width="30" height="3"/>
+<rect class="mg" y="90" width="18" height="3"/><rect class="m" x="5" y="99" width="48" height="3"/>
+<rect class="m" x="5" y="108" width="36" height="3"/><rect class="ml" x="10" y="117" width="26" height="3"/>
+<rect class="m" x="5" y="126" width="42" height="3"/><rect class="m" y="135" width="20" height="3"/>
+<rect class="mg" y="144" width="38" height="3"/><rect class="m" x="5" y="153" width="30" height="3"/>
+<rect class="m" x="5" y="162" width="50" height="3"/><rect class="m" y="171" width="16" height="3"/>
+<rect class="ml" y="180" width="28" height="3"/><rect class="m" x="5" y="189" width="36" height="3"/>
+</g>
+<rect x="1186" y="50" width="6" height="96" rx="3" fill="#A3E635" opacity=".32"/>
+
+<rect x="0" y="262" width="1200" height="38" fill="#121A14"/>
+<rect x="0" y="262" width="1200" height="1" fill="#7A8B7F" opacity=".22"/>
+<rect x="0" y="263" width="152" height="37" fill="#A3E635"/>
+<text x="18" y="286" font-size="12" fill="#0A0F0B" font-weight="700" letter-spacing="1.2">SEOUL &#183; UTC+9</text>
+<circle cx="176" cy="281" r="4" fill="#22C55E"/>
+<text class="b" x="190" y="286" font-size="12" opacity=".85">main</text>
+<g class="c" font-size="12" opacity=".8">
+<text x="256" y="286">TypeScript</text><text x="352" y="286">Spaces: 2</text><text x="444" y="286">UTF-8</text><text x="510" y="286">LF</text>
+<text x="1176" y="286" text-anchor="end">Ln 3, Col 27</text>
+</g>
+</svg>

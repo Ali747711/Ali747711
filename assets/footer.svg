@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Open to work - alexnabiyev5@gmail.com">
+<title>connect.sh</title>
+<defs>
+<linearGradient id="ftr-rule" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#A3E635"/><stop offset="55%" stop-color="#15803D" stop-opacity=".7"/><stop offset="1" stop-color="#15803D" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="ftr-glow" cx="26%" cy="40%" r="55%">
+<stop offset="0" stop-color="#A3E635" stop-opacity=".13"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
+</radialGradient>
+<pattern id="ftr-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+<path d="M24 0H0V24" fill="none" stroke="#22C55E" stroke-opacity=".06" stroke-width="1"/>
+</pattern>
+</defs>
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+.car{animation:bl 1.15s steps(1) infinite}
+@keyframes bl{0%,52%{opacity:1}53%,100%{opacity:.1}}
+@media (prefers-reduced-motion:reduce){.car{animation:none}}
+</style>
+<rect width="1200" height="170" fill="#0A0F0B"/>
+<rect width="1200" height="170" fill="url(#ftr-grid)"/>
+<rect width="1200" height="170" fill="url(#ftr-glow)"/>
+<rect x="0" y="0" width="1200" height="3" fill="url(#ftr-rule)"/>
+
+<text x="64" y="72" font-size="20" font-weight="700" fill="#A3E635" textLength="12" lengthAdjust="spacingAndGlyphs">$</text>
+<text x="88" y="72" font-size="20" fill="#E6F0E8" textLength="660" lengthAdjust="spacingAndGlyphs">thanks for scrolling — let's build something that ships</text>
+<rect class="car" x="758" y="56" width="11" height="21" fill="#A3E635"/>
+
+<text x="64" y="106" font-size="15" fill="#7A8B7F" textLength="117" lengthAdjust="spacingAndGlyphs"># reach me at</text>
+<text x="190" y="106" font-size="15" fill="#D9F99D" textLength="198" lengthAdjust="spacingAndGlyphs">alexnabiyev5@gmail.com</text>
+
+<rect x="0" y="132" width="1200" height="38" fill="#121A14"/>
+<rect x="0" y="132" width="1200" height="1" fill="#7A8B7F" fill-opacity=".22"/>
+<rect x="0" y="133" width="134" height="37" fill="#A3E635"/>
+<text x="24" y="157" font-size="12" font-weight="700" fill="#0A0F0B" letter-spacing="1.2" textLength="100" lengthAdjust="spacingAndGlyphs">OPEN TO WORK</text>
+<circle cx="156" cy="151" r="4" fill="#22C55E"/>
+<text x="170" y="156" font-size="12" fill="#E6F0E8" opacity=".85" textLength="29" lengthAdjust="spacingAndGlyphs">main</text>
+<text x="227" y="156" font-size="12" fill="#7A8B7F" textLength="130" lengthAdjust="spacingAndGlyphs">Seoul, South Korea</text>
+<text x="1176" y="156" font-size="12" fill="#15803D" text-anchor="end" textLength="22" lengthAdjust="spacingAndGlyphs">EOF</text>
+</svg>

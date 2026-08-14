@@ -1,38 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:0B0A09,45:B33A00,100:FF7A00&text=Azamat%20(Ali)%20Nabiev&fontSize=52&fontColor=FFF3E6&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Seoul,%20South%20Korea&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Azamat Ali Nabiev" />
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/banner.svg?v=1" alt="Azamat (Ali) Nabiev — Full-Stack Developer / AI Engineer / Seoul, South Korea" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A3E635&background=0A0F0B00&center=true&vCenter=true&width=820&height=110&lines=%24+whoami+-%3E+Azamat+%22Ali%22+Nabiev;%24+role+-%3E+Full-Stack+Developer+%2F+AI+Engineer+%7C+4+yrs;%24+stack+-%3E+TypeScript+%7C+NestJS+%7C+Next.js+%7C+Spring+Boot;%24+building+-%3E+vector+search+%2B+streaming+LLM+assistants;%24+status+-%3E+open+to+roles+in+Seoul%2C+South+Korea" alt="Terminal typing intro" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=FF7A00&background=0B0A0900&center=true&vCenter=true&width=780&height=120&lines=%24+whoami+-%3E+Azamat+%22Ali%22+Nabiev;%24+role+-%3E+Full-Stack+Developer+%2F+AI+Engineer+%7C+4+yrs;%24+stack+-%3E+TypeScript+%7C+NestJS+%7C+Next.js+%7C+Spring+Boot;%24+building+-%3E+vector+search+%2B+streaming+LLM+assistants;%24+status+-%3E+open+to+roles+in+Seoul%2C+South+Korea" alt="Terminal typing intro" />
+<img src="https://img.shields.io/badge/BBA-A3E635?style=flat-square&logo=bookstack&logoColor=A3E635&labelColor=121A14" alt="Degree" />
+<img src="https://img.shields.io/badge/Dong--A_University-Busan,_KR-15803D?style=flat-square&logo=googlescholar&logoColor=A3E635&labelColor=121A14" alt="University" />
+<img src="https://img.shields.io/badge/Based_in-Seoul,_South_Korea-15803D?style=flat-square&logo=googlemaps&logoColor=A3E635&labelColor=121A14" alt="Location" />
+<img src="https://img.shields.io/badge/Visa-D--10_Job_Seeker-15803D?style=flat-square&logo=protondrive&logoColor=A3E635&labelColor=121A14" alt="Visa" />
 
-<br/>
+<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A3E635?style=for-the-badge&logo=vercel&logoColor=A3E635&labelColor=121A14" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-A3E635?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0EzRTYzNSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=121A14" alt="LinkedIn" /></a>
+<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A3E635?style=for-the-badge&logo=gmail&logoColor=A3E635&labelColor=121A14" alt="Email" /></a>
+<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-A3E635?style=for-the-badge&logo=github&logoColor=A3E635&labelColor=121A14" alt="GitHub" /></a>
 
-<img src="https://img.shields.io/badge/BBA-International_Business-FF7A00?style=flat-square&logo=bookstack&logoColor=FFB627&labelColor=17130F" alt="Degree" />
-<img src="https://img.shields.io/badge/Dong--A_University-Busan,_KR-FF7A00?style=flat-square&logo=googlescholar&logoColor=FFB627&labelColor=17130F" alt="University" />
-<img src="https://img.shields.io/badge/Based_in-Seoul,_South_Korea-FF7A00?style=flat-square&logo=googlemaps&logoColor=FFB627&labelColor=17130F" alt="Location" />
-<img src="https://img.shields.io/badge/Visa-D--10_Job_Seeker-FF7A00?style=flat-square&logo=protondrive&logoColor=FFB627&labelColor=17130F" alt="Visa" />
-
-<br/><br/>
-
-<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGQjYyNyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=17130F" alt="LinkedIn" /></a>
-<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
-<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ali747711&label=PROFILE+VIEWS&color=FF7A00&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Ali747711?label=FOLLOWERS&style=flat-square&color=FF7A00&labelColor=17130F&logo=github&logoColor=FFB627" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Ali747711?label=TOTAL+STARS&style=flat-square&color=FF7A00&labelColor=17130F&logo=github&logoColor=FFB627" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Ali747711&label=PROFILE+VIEWS&color=A3E635&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Ali747711?label=FOLLOWERS&style=flat-square&color=A3E635&labelColor=121A14&logo=github&logoColor=A3E635" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Ali747711?label=TOTAL+STARS&style=flat-square&color=A3E635&labelColor=121A14&logo=github&logoColor=A3E635" alt="Stars" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/about.svg?v=1" alt="about.md" />
 
-## `$ cat ~/about.md`
-
-I build full-stack products and then put real AI inside them — semantic and vector search, streaming assistants grounded in live application data, and LLM endpoints with hard cost guardrails that degrade gracefully instead of falling over. Four years across e-commerce, healthcare, real estate, retail inventory and consulting SaaS, on a TypeScript/NestJS/Next.js core with Java Spring Boot on the backend side.
+I build full-stack products and then put real AI inside them — semantic and vector search, streaming assistants grounded in live application data, and LLM endpoints with hard cost guardrails that degrade gracefully instead of falling over. Four years across e-commerce, healthcare, real estate, retail inventory and consulting SaaS, on a TypeScript / NestJS / Next.js core with Java Spring Boot behind it.
 
 I own things end to end: schema, API, UI, Docker image, Nginx config, and the deploy that puts it in front of users.
 
@@ -45,9 +35,7 @@ AI="OpenAI · Claude (Skills/MCP/Agents) · Gemini · LangChain · Groq · Ollam
 OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance contracts"
 ```
 
----
-
-## `$ ls ./stack`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/stack.svg?v=1" alt="stack.json" />
 
 <div align="center">
 
@@ -59,7 +47,7 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark&perline=7" alt="Frontend" />
 
-**Backend & API**
+**Backend &amp; API**
 
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,graphql,apollo,prisma&theme=dark&perline=7" alt="Backend" />
 
@@ -67,63 +55,53 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark&perline=7" alt="Databases" />
 
-**Cloud & DevOps**
+**Cloud &amp; DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,vercel,linux,git&theme=dark&perline=7" alt="Cloud and DevOps" />
 
-**CV & Tooling**
+**CV &amp; Tooling**
 
 <img src="https://skillicons.dev/icons?i=opencv,postman,figma,notion,vscode,vitest&theme=dark&perline=7" alt="Tooling" />
 
 </div>
 
----
-
-## `$ grep -r "specialty" ./`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/specialty.svg?v=1" alt="specialty.ts" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-FF7A00?style=flat-square&logo=openai&logoColor=FFB627&labelColor=17130F" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude_Skills_·_MCP_·_Agents-FF7A00?style=flat-square&logo=anthropic&logoColor=FFB627&labelColor=17130F" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini_API-FF7A00?style=flat-square&logo=googlegemini&logoColor=FFB627&labelColor=17130F" alt="Gemini" />
-<img src="https://img.shields.io/badge/LangChain-FF7A00?style=flat-square&logo=langchain&logoColor=FFB627&labelColor=17130F" alt="LangChain" />
-<img src="https://img.shields.io/badge/Groq-FF7A00?style=flat-square&logo=groq&logoColor=FFB627&labelColor=17130F" alt="Groq" />
-<img src="https://img.shields.io/badge/Ollama-FF7A00?style=flat-square&logo=ollama&logoColor=FFB627&labelColor=17130F" alt="Ollama" />
+<img src="https://img.shields.io/badge/OpenAI-A3E635?style=flat-square&logo=openai&logoColor=0A0F0B&labelColor=121A14" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude_·_Skills_·_MCP-A3E635?style=flat-square&logo=anthropic&logoColor=0A0F0B&labelColor=121A14" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-A3E635?style=flat-square&logo=googlegemini&logoColor=0A0F0B&labelColor=121A14" alt="Gemini" />
+<img src="https://img.shields.io/badge/LangChain-A3E635?style=flat-square&logo=langchain&logoColor=0A0F0B&labelColor=121A14" alt="LangChain" />
+<img src="https://img.shields.io/badge/Groq-A3E635?style=flat-square&logo=groq&logoColor=0A0F0B&labelColor=121A14" alt="Groq" />
+<img src="https://img.shields.io/badge/Ollama-A3E635?style=flat-square&logo=ollama&logoColor=0A0F0B&labelColor=121A14" alt="Ollama" />
 
-<br/>
+<img src="https://img.shields.io/badge/Vector_Search-15803D?style=flat-square&logo=mongodb&logoColor=A3E635&labelColor=121A14" alt="Vector search" />
+<img src="https://img.shields.io/badge/SSE_Streaming-15803D?style=flat-square&logo=serverfault&logoColor=A3E635&labelColor=121A14" alt="Streaming assistants" />
+<img src="https://img.shields.io/badge/Cost_Guardrails-15803D?style=flat-square&logo=upstash&logoColor=A3E635&labelColor=121A14" alt="Cost guardrails" />
+<img src="https://img.shields.io/badge/Realtime-15803D?style=flat-square&logo=socketdotio&logoColor=A3E635&labelColor=121A14" alt="Realtime" />
+<img src="https://img.shields.io/badge/n8n-15803D?style=flat-square&logo=n8n&logoColor=A3E635&labelColor=121A14" alt="n8n" />
 
-<img src="https://img.shields.io/badge/Vector_Search-B33A00?style=flat-square&logo=mongodb&logoColor=FFB627&labelColor=17130F" alt="Vector search" />
-<img src="https://img.shields.io/badge/SSE_Streaming_Assistants-B33A00?style=flat-square&logo=serverfault&logoColor=FFB627&labelColor=17130F" alt="Streaming assistants" />
-<img src="https://img.shields.io/badge/LLM_Cost_Guardrails-B33A00?style=flat-square&logo=upstash&logoColor=FFB627&labelColor=17130F" alt="Cost guardrails" />
-<img src="https://img.shields.io/badge/Realtime_Socket.io-B33A00?style=flat-square&logo=socketdotio&logoColor=FFB627&labelColor=17130F" alt="Socket.io" />
-<img src="https://img.shields.io/badge/n8n_Automation-B33A00?style=flat-square&logo=n8n&logoColor=FFB627&labelColor=17130F" alt="n8n" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Stripe-17130F?style=flat-square&logo=stripe&logoColor=FFB627&labelColor=17130F" alt="Stripe" />
-<img src="https://img.shields.io/badge/Zod-17130F?style=flat-square&logo=zod&logoColor=FFB627&labelColor=17130F" alt="Zod" />
-<img src="https://img.shields.io/badge/Cloudinary-17130F?style=flat-square&logo=cloudinary&logoColor=FFB627&labelColor=17130F" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Puppeteer-17130F?style=flat-square&logo=puppeteer&logoColor=FFB627&labelColor=17130F" alt="Puppeteer" />
-<img src="https://img.shields.io/badge/Network_Security-17130F?style=flat-square&logo=tryhackme&logoColor=FFB627&labelColor=17130F" alt="Security" />
+<img src="https://img.shields.io/badge/Stripe-121A14?style=flat-square&logo=stripe&logoColor=A3E635&labelColor=121A14" alt="Stripe" />
+<img src="https://img.shields.io/badge/Zod-121A14?style=flat-square&logo=zod&logoColor=A3E635&labelColor=121A14" alt="Zod" />
+<img src="https://img.shields.io/badge/Cloudinary-121A14?style=flat-square&logo=cloudinary&logoColor=A3E635&labelColor=121A14" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Puppeteer-121A14?style=flat-square&logo=puppeteer&logoColor=A3E635&labelColor=121A14" alt="Puppeteer" />
+<img src="https://img.shields.io/badge/Network_Security-121A14?style=flat-square&logo=tryhackme&logoColor=A3E635&labelColor=121A14" alt="Security" />
 
 </div>
 
----
-
-## `$ cat expertise.tsv`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/expertise.svg?v=1" alt="expertise.tsv" />
 
 | Domain | Proficiency | Details |
 |:---|:---|:---|
-| **Backend & API architecture** | <img src="https://img.shields.io/badge/Advanced-90%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | NestJS + Apollo GraphQL code-first, Express 5, Spring Boot. 40+ REST endpoints on one platform, 32 GraphQL operations across 11 modules on another. JWT with refresh-token rotation, up to 4-level RBAC. |
-| **AI product engineering** | <img src="https://img.shields.io/badge/Advanced-85%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | MongoDB Atlas vector search, SSE streaming assistants with tool calling, multi-model fallback chains across OpenAI / Gemini / Groq / Ollama, Redis-tracked daily spend caps. |
-| **Frontend & product UI** | <img src="https://img.shields.io/badge/Advanced-90%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | React 19, Next.js App Router, Tailwind v4, shadcn/ui, Framer Motion. Role-based dashboards at 15+ pages; 40% page-load reduction via SSR optimization. |
-| **Data modelling & query perf** | <img src="https://img.shields.io/badge/Advanced-80%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | MongoDB compound indexes and aggregation pipelines (60% query-time cut), `$facet` pagination, PostgreSQL, MySQL/MariaDB, Prisma / TypeORM / Mongoose. |
-| **DevOps & deployment** | <img src="https://img.shields.io/badge/Proficient-75%25-B33A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases, GitHub Actions, AWS EC2/S3 with automated backups, Vercel and Render. |
-| **Realtime systems** | <img src="https://img.shields.io/badge/Proficient-75%25-B33A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | Socket.io notifications and messaging with read receipts and typing indicators, raw WebSocket gateways, Twilio DataTrack control channels. |
+| **Backend &amp; API architecture** | <img src="https://img.shields.io/badge/Advanced-90%25-A3E635?style=flat-square&labelColor=121A14" alt="90 percent" /> | NestJS + Apollo GraphQL code-first, Express 5, Spring Boot. 40+ REST endpoints on one platform, 32 GraphQL operations across 11 modules on another. JWT with refresh-token rotation, up to 4-level RBAC. |
+| **AI product engineering** | <img src="https://img.shields.io/badge/Advanced-85%25-A3E635?style=flat-square&labelColor=121A14" alt="85 percent" /> | MongoDB Atlas vector search, SSE streaming assistants with tool calling, multi-model fallback chains across OpenAI / Gemini / Groq / Ollama, Redis-tracked daily spend caps. |
+| **Frontend &amp; product UI** | <img src="https://img.shields.io/badge/Advanced-90%25-A3E635?style=flat-square&labelColor=121A14" alt="90 percent" /> | React 19, Next.js App Router, Tailwind v4, shadcn/ui, Framer Motion. Role-based dashboards at 15+ pages; 40% page-load reduction via SSR optimization. |
+| **Data modelling &amp; query perf** | <img src="https://img.shields.io/badge/Advanced-80%25-A3E635?style=flat-square&labelColor=121A14" alt="80 percent" /> | MongoDB compound indexes and aggregation pipelines (60% query-time cut), `$facet` pagination, PostgreSQL, MySQL/MariaDB, Prisma / TypeORM / Mongoose. |
+| **DevOps &amp; deployment** | <img src="https://img.shields.io/badge/Proficient-75%25-15803D?style=flat-square&labelColor=121A14" alt="75 percent" /> | Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases, GitHub Actions, AWS EC2/S3 with automated backups, Vercel and Render. |
+| **Realtime systems** | <img src="https://img.shields.io/badge/Proficient-75%25-15803D?style=flat-square&labelColor=121A14" alt="75 percent" /> | Socket.io notifications and messaging with read receipts and typing indicators, raw WebSocket gateways, Twilio DataTrack control channels. |
 
----
-
-## `$ ./run --projects`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/projects.svg?v=1" alt="projects/" />
 
 <details open>
 <summary><b>Shopy</b> — AI e-commerce with semantic search and a streaming shopping assistant</summary>
@@ -221,9 +199,7 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 </details>
 
----
-
-## `$ git log --author="Ali" --oneline`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/experience.svg?v=1" alt="experience.log" />
 
 ### `2024-01 → 2025-12` · **Silk Road Professionals** — Full-Stack Developer *(Remote)*
 
@@ -234,13 +210,13 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 - Owned deployment end to end — Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases — and cut page load time **40%** via Next.js SSR optimization
 
 <sub>
-<img src="https://img.shields.io/badge/Next.js-FF7A00?style=flat-square&logo=nextdotjs&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/NestJS-FF7A00?style=flat-square&logo=nestjs&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/PostgreSQL-FF7A00?style=flat-square&logo=postgresql&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Socket.io-FF7A00?style=flat-square&logo=socketdotio&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Docker-FF7A00?style=flat-square&logo=docker&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Nginx-FF7A00?style=flat-square&logo=nginx&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/PM2-FF7A00?style=flat-square&logo=pm2&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Next.js-121A14?style=flat-square&logo=nextdotjs&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/NestJS-121A14?style=flat-square&logo=nestjs&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/PostgreSQL-121A14?style=flat-square&logo=postgresql&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Socket.io-121A14?style=flat-square&logo=socketdotio&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Docker-121A14?style=flat-square&logo=docker&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Nginx-121A14?style=flat-square&logo=nginx&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/PM2-121A14?style=flat-square&logo=pm2&logoColor=A3E635&labelColor=121A14" />
 </sub>
 
 ### `2022-05 → 2023-11` · **ISHONCH Electronics Retail** — Backend Developer *(Remote)*
@@ -252,17 +228,15 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 - Set up Spring Security with **3-level RBAC**, AWS EC2/S3 infrastructure with automated backups, and Swagger/OpenAPI docs for the frontend team
 
 <sub>
-<img src="https://img.shields.io/badge/Java-B33A00?style=flat-square&logo=openjdk&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Spring_Boot-B33A00?style=flat-square&logo=springboot&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/MongoDB-B33A00?style=flat-square&logo=mongodb&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Spring_Security-B33A00?style=flat-square&logo=springsecurity&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/AWS_EC2_·_S3-B33A00?style=flat-square&logo=amazonwebservices&logoColor=FFB627&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Swagger-B33A00?style=flat-square&logo=swagger&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Java-121A14?style=flat-square&logo=openjdk&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Spring_Boot-121A14?style=flat-square&logo=springboot&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/MongoDB-121A14?style=flat-square&logo=mongodb&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Spring_Security-121A14?style=flat-square&logo=springsecurity&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/AWS_EC2_·_S3-121A14?style=flat-square&logo=amazonwebservices&logoColor=A3E635&labelColor=121A14" />
+<img src="https://img.shields.io/badge/Swagger-121A14?style=flat-square&logo=swagger&logoColor=A3E635&labelColor=121A14" />
 </sub>
 
----
-
-## `$ cat achievements.log`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/wins.svg?v=1" alt="achievements.md" />
 
 <div align="center">
 
@@ -289,87 +263,67 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 </div>
 
----
-
-## `$ cat education.txt`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/education.svg?v=1" alt="education.txt" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Dong--A_University-Bachelor_of_Business_Administration-FF7A00?style=for-the-badge&logo=googlescholar&logoColor=FFB627&labelColor=17130F" alt="Dong-A University" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Major-International_Business_Management-B33A00?style=for-the-badge&logo=readthedocs&logoColor=FFB627&labelColor=17130F" alt="Major" />
-<img src="https://img.shields.io/badge/2022_–_2025-Busan,_South_Korea-B33A00?style=for-the-badge&logo=googlemaps&logoColor=FFB627&labelColor=17130F" alt="Years" />
+<img src="https://img.shields.io/badge/Dong--A_University-Bachelor_of_Business_Administration-A3E635?style=for-the-badge&logo=googlescholar&logoColor=A3E635&labelColor=121A14" alt="Dong-A University" />
+
+<img src="https://img.shields.io/badge/Major-International_Business_Management-15803D?style=for-the-badge&logo=readthedocs&logoColor=A3E635&labelColor=121A14" alt="Major" />
+<img src="https://img.shields.io/badge/2022_–_2025-Busan,_South_Korea-15803D?style=for-the-badge&logo=googlemaps&logoColor=A3E635&labelColor=121A14" alt="Years" />
 
 </div>
 
----
-
-## `$ gh api /users/Ali747711/stats`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/analytics.svg?v=1" alt="analytics.json" />
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ali747711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627&ring_color=FF7A00" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.vercel.app/?user=Ali747711&hide_border=true&disable_animations=true&background=0B0A09&border=17130F&stroke=B33A00&ring=FF7A00&fire=FFB627&currStreakNum=E8E3DC&sideNums=E8E3DC&currStreakLabel=FF7A00&sideLabels=8A7F76&dates=8A7F76" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ali747711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&ring_color=A3E635" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.vercel.app/?user=Ali747711&hide_border=true&background=0A0F0B&stroke=15803D&ring=A3E635&fire=D9F99D&currStreakNum=E6F0E8&sideNums=E6F0E8&currStreakLabel=A3E635&sideLabels=7A8B7F&dates=7A8B7F" alt="GitHub streak" />
 
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ali747711&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627" alt="Top languages" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ali747711&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E" alt="Top languages" />
 
 </div>
 
----
-
-## `$ ./trophies --column=7`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/trophies.svg?v=1" alt="trophies.svg" />
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Ali747711&theme=gruvbox&no-frame=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=Ali747711&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
 
 </div>
 
----
-
-## `$ tail -f contributions.log`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/activity.svg?v=1" alt="activity.log" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali747711&bg_color=0B0A09&color=FF7A00&line=FFB627&point=E8E3DC&area_color=B33A00&title_color=FF7A00&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali747711&bg_color=0A0F0B&color=A3E635&line=22C55E&point=D9F99D&area_color=15803D&title_color=A3E635&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
----
-
-## `$ ./summary --full`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/summary.svg?v=1" alt="summary.json" />
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali747711&theme=gruvbox" width="100%" alt="Profile details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Profile details" />
 
-<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Most commit language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali747711&theme=gruvbox" width="49%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali747711&theme=gruvbox" width="49%" alt="Most commit language" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali747711&theme=gruvbox" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali747711&theme=gruvbox&utcOffset=9" width="49%" alt="Productive time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali747711&utcOffset=9&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Productive time" />
 
 </div>
 
----
-
-## `$ ./snake --theme=dark`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/snake.svg?v=1" alt="snake.svg" />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ali747711/Ali747711/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
----
-
-## `$ cat now.yaml`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/now.svg?v=1" alt="now.yaml" />
 
 ```yaml
 learning:
@@ -395,22 +349,20 @@ open_to:
   contact:   alexnabiyev5@gmail.com
 ```
 
----
-
-## `$ ./connect`
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/h/connect.svg?v=1" alt="connect.sh" />
 
 <div align="center">
 
-<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGQjYyNyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=17130F" alt="LinkedIn" /></a>
-<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
-<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
-<a href="https://t.me/nabiev0727"><img src="https://img.shields.io/badge/TELEGRAM-FF7A00?style=for-the-badge&logo=telegram&logoColor=FFB627&labelColor=17130F" alt="Telegram" /></a>
+<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A3E635?style=for-the-badge&logo=vercel&logoColor=A3E635&labelColor=121A14" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-A3E635?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0EzRTYzNSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=121A14" alt="LinkedIn" /></a>
+<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A3E635?style=for-the-badge&logo=gmail&logoColor=A3E635&labelColor=121A14" alt="Email" /></a>
+<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-A3E635?style=for-the-badge&logo=github&logoColor=A3E635&labelColor=121A14" alt="GitHub" /></a>
+<a href="https://t.me/nabiev0727"><img src="https://img.shields.io/badge/TELEGRAM-A3E635?style=for-the-badge&logo=telegram&logoColor=A3E635&labelColor=121A14" alt="Telegram" /></a>
 
-<br/><br/>
+<br/>
 
 > **`Ship it grounded, guard the budget, degrade gracefully — production AI is an engineering problem, not a prompt.`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:B33A00,100:FF7A00" width="100%" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/footer.svg?v=1" alt="Open to work — alexnabiyev5@gmail.com" />
 
 </div>
