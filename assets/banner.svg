@@ -7,18 +7,41 @@
 <radialGradient id="lime" cx="31%" cy="49%" r="30%">
 <stop offset="0" stop-color="#A3E635" stop-opacity=".13"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
 </radialGradient>
+<clipPath id="typeClip"><rect class="tw" x="160" y="110" width="604" height="64"/></clipPath>
 </defs>
 <style>
 text{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
 .k{fill:#22C55E}.s{fill:#A3E635}.p{fill:#D9F99D}.c{fill:#7A8B7F}.b{fill:#E6F0E8}.d{fill:#E6F0E8;opacity:.5}
 .m{fill:#7A8B7F;opacity:.28}.ml{fill:#A3E635;opacity:.5}.mg{fill:#22C55E;opacity:.38}
-.car{animation:bl 1.15s steps(1) infinite}
+/* every reveal is FINITE with fill:both and a fully-visible default state,
+   so reduced-motion and frame-0 screenshot capture both show the finished art */
 @keyframes bl{0%,52%{opacity:1}53%,100%{opacity:.1}}
-.glow{animation:pu 7s ease-in-out infinite}
 @keyframes pu{0%,100%{opacity:1}50%{opacity:.6}}
-.vp{animation:sl 11s ease-in-out infinite}
 @keyframes sl{0%,100%{transform:translateY(0)}50%{transform:translateY(22px)}}
-@media (prefers-reduced-motion:reduce){.car,.glow,.vp{animation:none}}
+@keyframes wipe{from{transform:translateX(-604px)}to{transform:translateX(0)}}
+@keyframes travel{from{transform:translateX(-580px)}to{transform:translateX(0)}}
+@keyframes rv{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+@keyframes lit{from{fill:#7A8B7F}to{fill:#A3E635}}
+@keyframes band{from{opacity:0}to{opacity:.05}}
+
+.glow{animation:pu 7s ease-in-out infinite}
+.vp{animation:sl 11s ease-in-out infinite}
+
+.tw{animation:wipe 1.45s steps(21,end) .95s both}
+.car{animation:travel 1.45s steps(21,end) .95s both, bl 1.15s steps(1) 2.45s infinite}
+.hl{animation:band .3s ease-out .9s both}
+.ln3{animation:lit .25s ease-out 1s both}
+
+.r1{animation:rv .38s ease-out 0s both}
+.r2{animation:rv .38s ease-out .38s both}
+.r3{animation:rv .3s ease-out .72s both}
+.r4{animation:rv .38s ease-out 2.42s both}
+.r5{animation:rv .38s ease-out 2.8s both}
+
+@media (prefers-reduced-motion:reduce){
+.glow,.vp,.tw,.car,.hl,.ln3,.r1,.r2,.r3,.r4,.r5{animation:none}
+.hl{opacity:.05}.ln3{fill:#A3E635}
+}
 </style>
 
 <rect width="1200" height="300" fill="#0A0F0B"/>
@@ -38,22 +61,22 @@ text{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,m
 <rect x="0" y="43" width="62" height="219" fill="#121A14"/>
 <rect x="62" y="43" width="1" height="219" fill="#7A8B7F" opacity=".22"/>
 
-<rect x="63" y="112" width="1045" height="62" fill="#A3E635" opacity=".05"/>
+<rect class="hl" x="63" y="112" width="1045" height="62" fill="#A3E635" opacity=".05"/>
 <rect x="59" y="112" width="3" height="62" fill="#A3E635"/>
 <rect x="800" y="48" width="1" height="210" fill="#7A8B7F" opacity=".16"/>
 
 <g class="c" font-size="12" text-anchor="end" opacity=".65">
 <text x="44" y="72">01</text><text x="44" y="98">02</text><text x="44" y="196">04</text><text x="44" y="236">05</text>
 </g>
-<text class="s" x="44" y="150" font-size="12" text-anchor="end">03</text>
+<text class="ln3 s" x="44" y="150" font-size="12" text-anchor="end">03</text>
 
-<text class="c" x="78" y="72" font-size="13" textLength="710" lengthAdjust="spacingAndGlyphs">// full-stack + ai &#183; typescript &#183; nestjs &#183; next.js &#183; spring &#183; vector search &#183; streaming llm</text>
-<text x="78" y="98" font-size="14" textLength="160" lengthAdjust="spacingAndGlyphs"><tspan class="k">export const </tspan><tspan class="b">me</tspan><tspan class="d"> = {</tspan></text>
-<text class="p" x="94" y="150" font-size="17" textLength="51" lengthAdjust="spacingAndGlyphs">name:</text>
-<text x="166" y="152" font-size="46" font-weight="700" textLength="580" lengthAdjust="spacingAndGlyphs"><tspan class="c">"</tspan><tspan class="s">Azamat (Ali) Nabiev</tspan><tspan class="c">"</tspan></text>
+<text class="c r1" x="78" y="72" font-size="13" textLength="710" lengthAdjust="spacingAndGlyphs">// full-stack + ai &#183; typescript &#183; nestjs &#183; next.js &#183; spring &#183; vector search &#183; streaming llm</text>
+<text class="r2" x="78" y="98" font-size="14" textLength="160" lengthAdjust="spacingAndGlyphs"><tspan class="k">export const </tspan><tspan class="b">me</tspan><tspan class="d"> = {</tspan></text>
+<text class="p r3" x="94" y="150" font-size="17" textLength="51" lengthAdjust="spacingAndGlyphs">name:</text>
+<text clip-path="url(#typeClip)" x="166" y="152" font-size="46" font-weight="700" textLength="580" lengthAdjust="spacingAndGlyphs"><tspan class="c">"</tspan><tspan class="s">Azamat (Ali) Nabiev</tspan><tspan class="c">"</tspan></text>
 <rect class="car" x="762" y="114" width="6" height="48" fill="#A3E635"/>
-<text x="94" y="196" font-size="17" xml:space="preserve" textLength="694" lengthAdjust="spacingAndGlyphs"><tspan class="p">focus: </tspan><tspan class="c">"</tspan><tspan class="s">Full-Stack Developer  /  AI Engineer  /  Seoul, South Korea</tspan><tspan class="c">"</tspan></text>
-<text x="78" y="236" font-size="14" textLength="176" lengthAdjust="spacingAndGlyphs"><tspan class="d">}</tspan><tspan class="k"> satisfies </tspan><tspan class="p">Engineer</tspan><tspan class="d">;</tspan></text>
+<text class="r4" x="94" y="196" font-size="17" xml:space="preserve" textLength="694" lengthAdjust="spacingAndGlyphs"><tspan class="p">focus: </tspan><tspan class="c">"</tspan><tspan class="s">Full-Stack Developer  /  AI Engineer  /  Seoul, South Korea</tspan><tspan class="c">"</tspan></text>
+<text class="r5" x="78" y="236" font-size="14" textLength="176" lengthAdjust="spacingAndGlyphs"><tspan class="d">}</tspan><tspan class="k"> satisfies </tspan><tspan class="p">Engineer</tspan><tspan class="d">;</tspan></text>
 
 <g class="c" font-size="13" text-anchor="end" opacity=".45" letter-spacing="2">
 <text x="1088" y="212">37.5665&#176; N</text><text x="1088" y="234">126.9780&#176; E</text>

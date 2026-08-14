@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/banner.svg?v=1" alt="Azamat (Ali) Nabiev — Full-Stack Developer / AI Engineer / Seoul, South Korea" />
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/banner.svg?v=2" alt="Azamat (Ali) Nabiev — Full-Stack Developer / AI Engineer / Seoul, South Korea" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A3E635&background=0A0F0B00&center=true&vCenter=true&width=820&height=110&lines=%24+whoami+-%3E+Azamat+%22Ali%22+Nabiev;%24+role+-%3E+Full-Stack+Developer+%2F+AI+Engineer+%7C+4+yrs;%24+stack+-%3E+TypeScript+%7C+NestJS+%7C+Next.js+%7C+Spring+Boot;%24+building+-%3E+vector+search+%2B+streaming+LLM+assistants;%24+status+-%3E+open+to+roles+in+Seoul%2C+South+Korea" alt="Terminal typing intro" />
+<img width="100%" src="https://raw.githubusercontent.com/Ali747711/Ali747711/master/assets/terminal.svg?v=1" alt="Terminal: shipping vector search, streaming assistants and cost guardrails to production" />
 
 <img src="https://img.shields.io/badge/BBA-International_Business-A3E635?style=flat-square&logo=bookstack&logoColor=A3E635&labelColor=121A14" alt="Degree" />
 <img src="https://img.shields.io/badge/Dong--A_University-Busan,_KR-15803D?style=flat-square&logo=googlescholar&logoColor=A3E635&labelColor=121A14" alt="University" />
