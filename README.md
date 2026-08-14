@@ -15,10 +15,10 @@
 
 <br/><br/>
 
-<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=0B0A09&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=0B0A09&labelColor=17130F" alt="LinkedIn" /></a>
-<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=0B0A09&labelColor=17130F" alt="Email" /></a>
-<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=0B0A09&labelColor=17130F" alt="GitHub" /></a>
+<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=FFB627&labelColor=17130F" alt="LinkedIn" /></a>
+<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
+<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -83,12 +83,12 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-FF7A00?style=flat-square&logo=openai&logoColor=0B0A09&labelColor=17130F" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude_Skills_·_MCP_·_Agents-FF7A00?style=flat-square&logo=anthropic&logoColor=0B0A09&labelColor=17130F" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini_API-FF7A00?style=flat-square&logo=googlegemini&logoColor=0B0A09&labelColor=17130F" alt="Gemini" />
-<img src="https://img.shields.io/badge/LangChain-FF7A00?style=flat-square&logo=langchain&logoColor=0B0A09&labelColor=17130F" alt="LangChain" />
-<img src="https://img.shields.io/badge/Groq-FF7A00?style=flat-square&logo=groq&logoColor=0B0A09&labelColor=17130F" alt="Groq" />
-<img src="https://img.shields.io/badge/Ollama-FF7A00?style=flat-square&logo=ollama&logoColor=0B0A09&labelColor=17130F" alt="Ollama" />
+<img src="https://img.shields.io/badge/OpenAI-FF7A00?style=flat-square&logo=openai&logoColor=FFB627&labelColor=17130F" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude_Skills_·_MCP_·_Agents-FF7A00?style=flat-square&logo=anthropic&logoColor=FFB627&labelColor=17130F" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini_API-FF7A00?style=flat-square&logo=googlegemini&logoColor=FFB627&labelColor=17130F" alt="Gemini" />
+<img src="https://img.shields.io/badge/LangChain-FF7A00?style=flat-square&logo=langchain&logoColor=FFB627&labelColor=17130F" alt="LangChain" />
+<img src="https://img.shields.io/badge/Groq-FF7A00?style=flat-square&logo=groq&logoColor=FFB627&labelColor=17130F" alt="Groq" />
+<img src="https://img.shields.io/badge/Ollama-FF7A00?style=flat-square&logo=ollama&logoColor=FFB627&labelColor=17130F" alt="Ollama" />
 
 <br/>
 
@@ -100,11 +100,11 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 <br/>
 
-<img src="https://img.shields.io/badge/Stripe-FFB627?style=flat-square&logo=stripe&logoColor=0B0A09&labelColor=17130F" alt="Stripe" />
-<img src="https://img.shields.io/badge/Zod-FFB627?style=flat-square&logo=zod&logoColor=0B0A09&labelColor=17130F" alt="Zod" />
-<img src="https://img.shields.io/badge/Cloudinary-FFB627?style=flat-square&logo=cloudinary&logoColor=0B0A09&labelColor=17130F" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Puppeteer-FFB627?style=flat-square&logo=puppeteer&logoColor=0B0A09&labelColor=17130F" alt="Puppeteer" />
-<img src="https://img.shields.io/badge/Network_Security-FFB627?style=flat-square&logo=tryhackme&logoColor=0B0A09&labelColor=17130F" alt="Security" />
+<img src="https://img.shields.io/badge/Stripe-FFB627?style=flat-square&logo=stripe&logoColor=FFB627&labelColor=17130F" alt="Stripe" />
+<img src="https://img.shields.io/badge/Zod-FFB627?style=flat-square&logo=zod&logoColor=FFB627&labelColor=17130F" alt="Zod" />
+<img src="https://img.shields.io/badge/Cloudinary-FFB627?style=flat-square&logo=cloudinary&logoColor=FFB627&labelColor=17130F" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Puppeteer-FFB627?style=flat-square&logo=puppeteer&logoColor=FFB627&labelColor=17130F" alt="Puppeteer" />
+<img src="https://img.shields.io/badge/Network_Security-FFB627?style=flat-square&logo=tryhackme&logoColor=FFB627&labelColor=17130F" alt="Security" />
 
 </div>
 
@@ -234,13 +234,13 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 - Owned deployment end to end — Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases — and cut page load time **40%** via Next.js SSR optimization
 
 <sub>
-<img src="https://img.shields.io/badge/Next.js-FF7A00?style=flat-square&logo=nextdotjs&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/NestJS-FF7A00?style=flat-square&logo=nestjs&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/PostgreSQL-FF7A00?style=flat-square&logo=postgresql&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Socket.io-FF7A00?style=flat-square&logo=socketdotio&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Docker-FF7A00?style=flat-square&logo=docker&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/Nginx-FF7A00?style=flat-square&logo=nginx&logoColor=0B0A09&labelColor=17130F" />
-<img src="https://img.shields.io/badge/PM2-FF7A00?style=flat-square&logo=pm2&logoColor=0B0A09&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Next.js-FF7A00?style=flat-square&logo=nextdotjs&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/NestJS-FF7A00?style=flat-square&logo=nestjs&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/PostgreSQL-FF7A00?style=flat-square&logo=postgresql&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Socket.io-FF7A00?style=flat-square&logo=socketdotio&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Docker-FF7A00?style=flat-square&logo=docker&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/Nginx-FF7A00?style=flat-square&logo=nginx&logoColor=FFB627&labelColor=17130F" />
+<img src="https://img.shields.io/badge/PM2-FF7A00?style=flat-square&logo=pm2&logoColor=FFB627&labelColor=17130F" />
 </sub>
 
 ### `2022-05 → 2023-11` · **ISHONCH Electronics Retail** — Backend Developer *(Remote)*
@@ -295,7 +295,7 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Dong--A_University-Bachelor_of_Business_Administration-FF7A00?style=for-the-badge&logo=googlescholar&logoColor=0B0A09&labelColor=17130F" alt="Dong-A University" />
+<img src="https://img.shields.io/badge/Dong--A_University-Bachelor_of_Business_Administration-FF7A00?style=for-the-badge&logo=googlescholar&logoColor=FFB627&labelColor=17130F" alt="Dong-A University" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Major-International_Business_Management-B33A00?style=for-the-badge&logo=readthedocs&logoColor=FFB627&labelColor=17130F" alt="Major" />
 <img src="https://img.shields.io/badge/2022_–_2025-Busan,_South_Korea-B33A00?style=for-the-badge&logo=googlemaps&logoColor=FFB627&labelColor=17130F" alt="Years" />
@@ -308,12 +308,12 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ali747711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627&ring_color=FF7A00" alt="GitHub stats" />
-<img height="180em" src="https://streak-stats.vercel.app/?user=Ali747711&hide_border=true&background=0B0A09&border=17130F&stroke=B33A00&ring=FF7A00&fire=FFB627&currStreakNum=E8E3DC&sideNums=E8E3DC&currStreakLabel=FF7A00&sideLabels=8A7F76&dates=8A7F76" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ali747711&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627&ring_color=FF7A00" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.vercel.app/?user=Ali747711&hide_border=true&disable_animations=true&background=0B0A09&border=17130F&stroke=B33A00&ring=FF7A00&fire=FFB627&currStreakNum=E8E3DC&sideNums=E8E3DC&currStreakLabel=FF7A00&sideLabels=8A7F76&dates=8A7F76" alt="GitHub streak" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ali747711&layout=compact&langs_count=8&hide_border=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627" alt="Top languages" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ali747711&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0B0A09&title_color=FF7A00&text_color=E8E3DC&icon_color=FFB627" alt="Top languages" />
 
 </div>
 
@@ -323,7 +323,7 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=Ali747711&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=Ali747711&theme=gruvbox&no-frame=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
 
 </div>
 
@@ -401,16 +401,16 @@ open_to:
 
 <div align="center">
 
-<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=0B0A09&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=0B0A09&labelColor=17130F" alt="LinkedIn" /></a>
-<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=0B0A09&labelColor=17130F" alt="Email" /></a>
-<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=0B0A09&labelColor=17130F" alt="GitHub" /></a>
-<a href="https://t.me/nabiev0727"><img src="https://img.shields.io/badge/TELEGRAM-FF7A00?style=for-the-badge&logo=telegram&logoColor=0B0A09&labelColor=17130F" alt="Telegram" /></a>
+<a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=FFB627&labelColor=17130F" alt="LinkedIn" /></a>
+<a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
+<a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
+<a href="https://t.me/nabiev0727"><img src="https://img.shields.io/badge/TELEGRAM-FF7A00?style=for-the-badge&logo=telegram&logoColor=FFB627&labelColor=17130F" alt="Telegram" /></a>
 
 <br/><br/>
 
 > **`Ship it grounded, guard the budget, degrade gracefully — production AI is an engineering problem, not a prompt.`**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF7A00,55:B33A00,100:0B0A09&reversal=true" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:B33A00,100:FF7A00" width="100%" alt="Footer" />
 
 </div>
