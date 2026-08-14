@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=FFB627&labelColor=17130F" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGQjYyNyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=17130F" alt="LinkedIn" /></a>
 <a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
 <a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
 
@@ -100,11 +100,11 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 <br/>
 
-<img src="https://img.shields.io/badge/Stripe-FFB627?style=flat-square&logo=stripe&logoColor=FFB627&labelColor=17130F" alt="Stripe" />
-<img src="https://img.shields.io/badge/Zod-FFB627?style=flat-square&logo=zod&logoColor=FFB627&labelColor=17130F" alt="Zod" />
-<img src="https://img.shields.io/badge/Cloudinary-FFB627?style=flat-square&logo=cloudinary&logoColor=FFB627&labelColor=17130F" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Puppeteer-FFB627?style=flat-square&logo=puppeteer&logoColor=FFB627&labelColor=17130F" alt="Puppeteer" />
-<img src="https://img.shields.io/badge/Network_Security-FFB627?style=flat-square&logo=tryhackme&logoColor=FFB627&labelColor=17130F" alt="Security" />
+<img src="https://img.shields.io/badge/Stripe-17130F?style=flat-square&logo=stripe&logoColor=FFB627&labelColor=17130F" alt="Stripe" />
+<img src="https://img.shields.io/badge/Zod-17130F?style=flat-square&logo=zod&logoColor=FFB627&labelColor=17130F" alt="Zod" />
+<img src="https://img.shields.io/badge/Cloudinary-17130F?style=flat-square&logo=cloudinary&logoColor=FFB627&labelColor=17130F" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Puppeteer-17130F?style=flat-square&logo=puppeteer&logoColor=FFB627&labelColor=17130F" alt="Puppeteer" />
+<img src="https://img.shields.io/badge/Network_Security-17130F?style=flat-square&logo=tryhackme&logoColor=FFB627&labelColor=17130F" alt="Security" />
 
 </div>
 
@@ -114,12 +114,12 @@ OPEN_TO="Full-time in South Korea — onsite / hybrid / remote · freelance cont
 
 | Domain | Proficiency | Details |
 |:---|:---|:---|
-| **Backend & API architecture** | `▰▰▰▰▰▰▰▰▰▱` | NestJS + Apollo GraphQL code-first, Express 5, Spring Boot. 40+ REST endpoints on one platform, 32 GraphQL operations across 11 modules on another. JWT with refresh-token rotation, up to 4-level RBAC. |
-| **AI product engineering** | `▰▰▰▰▰▰▰▰▱▱` | MongoDB Atlas vector search, SSE streaming assistants with tool calling, multi-model fallback chains across OpenAI / Gemini / Groq / Ollama, Redis-tracked daily spend caps. |
-| **Frontend & product UI** | `▰▰▰▰▰▰▰▰▰▱` | React 19, Next.js App Router, Tailwind v4, shadcn/ui, Framer Motion. Role-based dashboards at 15+ pages; 40% page-load reduction via SSR optimization. |
-| **Data modelling & query perf** | `▰▰▰▰▰▰▰▰▱▱` | MongoDB compound indexes and aggregation pipelines (60% query-time cut), `$facet` pagination, PostgreSQL, MySQL/MariaDB, Prisma / TypeORM / Mongoose. |
-| **DevOps & deployment** | `▰▰▰▰▰▰▰▱▱▱` | Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases, GitHub Actions, AWS EC2/S3 with automated backups, Vercel and Render. |
-| **Realtime systems** | `▰▰▰▰▰▰▰▱▱▱` | Socket.io notifications and messaging with read receipts and typing indicators, raw WebSocket gateways, Twilio DataTrack control channels. |
+| **Backend & API architecture** | <img src="https://img.shields.io/badge/Advanced-90%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | NestJS + Apollo GraphQL code-first, Express 5, Spring Boot. 40+ REST endpoints on one platform, 32 GraphQL operations across 11 modules on another. JWT with refresh-token rotation, up to 4-level RBAC. |
+| **AI product engineering** | <img src="https://img.shields.io/badge/Advanced-85%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | MongoDB Atlas vector search, SSE streaming assistants with tool calling, multi-model fallback chains across OpenAI / Gemini / Groq / Ollama, Redis-tracked daily spend caps. |
+| **Frontend & product UI** | <img src="https://img.shields.io/badge/Advanced-90%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | React 19, Next.js App Router, Tailwind v4, shadcn/ui, Framer Motion. Role-based dashboards at 15+ pages; 40% page-load reduction via SSR optimization. |
+| **Data modelling & query perf** | <img src="https://img.shields.io/badge/Advanced-80%25-FF7A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | MongoDB compound indexes and aggregation pipelines (60% query-time cut), `$facet` pagination, PostgreSQL, MySQL/MariaDB, Prisma / TypeORM / Mongoose. |
+| **DevOps & deployment** | <img src="https://img.shields.io/badge/Proficient-75%25-B33A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | Docker multi-stage builds, Nginx reverse proxy, PM2 zero-downtime releases, GitHub Actions, AWS EC2/S3 with automated backups, Vercel and Render. |
+| **Realtime systems** | <img src="https://img.shields.io/badge/Proficient-75%25-B33A00?style=flat-square&labelColor=17130F" alt="proficiency" /> | Socket.io notifications and messaging with read receipts and typing indicators, raw WebSocket gateways, Twilio DataTrack control channels. |
 
 ---
 
@@ -402,7 +402,7 @@ open_to:
 <div align="center">
 
 <a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A00?style=for-the-badge&logo=vercel&logoColor=FFB627&labelColor=17130F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=FFB627&labelColor=17130F" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGQjYyNyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=17130F" alt="LinkedIn" /></a>
 <a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=FFB627&labelColor=17130F" alt="Email" /></a>
 <a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=FFB627&labelColor=17130F" alt="GitHub" /></a>
 <a href="https://t.me/nabiev0727"><img src="https://img.shields.io/badge/TELEGRAM-FF7A00?style=for-the-badge&logo=telegram&logoColor=FFB627&labelColor=17130F" alt="Telegram" /></a>
