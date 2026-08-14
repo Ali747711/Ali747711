@@ -4,15 +4,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A3E635&background=0A0F0B00&center=true&vCenter=true&width=820&height=110&lines=%24+whoami+-%3E+Azamat+%22Ali%22+Nabiev;%24+role+-%3E+Full-Stack+Developer+%2F+AI+Engineer+%7C+4+yrs;%24+stack+-%3E+TypeScript+%7C+NestJS+%7C+Next.js+%7C+Spring+Boot;%24+building+-%3E+vector+search+%2B+streaming+LLM+assistants;%24+status+-%3E+open+to+roles+in+Seoul%2C+South+Korea" alt="Terminal typing intro" />
 
-<img src="https://img.shields.io/badge/BBA-A3E635?style=flat-square&logo=bookstack&logoColor=A3E635&labelColor=121A14" alt="Degree" />
+<img src="https://img.shields.io/badge/BBA-International_Business-A3E635?style=flat-square&logo=bookstack&logoColor=A3E635&labelColor=121A14" alt="Degree" />
 <img src="https://img.shields.io/badge/Dong--A_University-Busan,_KR-15803D?style=flat-square&logo=googlescholar&logoColor=A3E635&labelColor=121A14" alt="University" />
 <img src="https://img.shields.io/badge/Based_in-Seoul,_South_Korea-15803D?style=flat-square&logo=googlemaps&logoColor=A3E635&labelColor=121A14" alt="Location" />
 <img src="https://img.shields.io/badge/Visa-D--10_Job_Seeker-15803D?style=flat-square&logo=protondrive&logoColor=A3E635&labelColor=121A14" alt="Visa" />
+
+<br/>
 
 <a href="https://ali-pro.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A3E635?style=for-the-badge&logo=vercel&logoColor=A3E635&labelColor=121A14" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nabiev-azamat-292903259/"><img src="https://img.shields.io/badge/LINKEDIN-A3E635?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0EzRTYzNSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&labelColor=121A14" alt="LinkedIn" /></a>
 <a href="mailto:alexnabiyev5@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A3E635?style=for-the-badge&logo=gmail&logoColor=A3E635&labelColor=121A14" alt="Email" /></a>
 <a href="https://github.com/Ali747711"><img src="https://img.shields.io/badge/GITHUB-A3E635?style=for-the-badge&logo=github&logoColor=A3E635&labelColor=121A14" alt="GitHub" /></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ali747711&label=PROFILE+VIEWS&color=A3E635&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Ali747711?label=FOLLOWERS&style=flat-square&color=A3E635&labelColor=121A14&logo=github&logoColor=A3E635" alt="Followers" />
@@ -297,7 +301,7 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali747711&bg_color=0A0F0B&color=A3E635&line=22C55E&point=D9F99D&area_color=15803D&title_color=A3E635&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali747711&bg_color=0A0F0B&color=A3E635&line=A3E635&point=D9F99D&area_color=A3E635&title_color=A3E635&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -305,13 +309,13 @@ Classifies inbound support tickets, scores priority and routes each one to the r
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Profile details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali747711&theme=vue&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Profile details" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali747711&theme=vue&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali747711&theme=vue&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Most commit language" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali747711&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali747711&utcOffset=9&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Productive time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali747711&theme=vue&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali747711&theme=vue&utcOffset=9&bg_color=0A0F0B&title_color=A3E635&text_color=E6F0E8&icon_color=22C55E&border_color=121A14" alt="Productive time" />
 
 </div>
 
